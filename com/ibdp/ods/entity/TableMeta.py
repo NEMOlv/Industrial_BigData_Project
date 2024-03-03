@@ -6,6 +6,7 @@ __author__ = "nemo"
 from com.ibdp.ods.entity.ColumnMeta import ColumnMeta
 
 
+
 class TableMeta(object):
 
     @property
